@@ -1,0 +1,10 @@
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_01","name":"clima","input":{"ciudad":"Bogotá"}},{"type":"tool_use","id":"toolu_02","name":"calculadora","input":{"operacion":"dividir","a":691,"b":316}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_03","name":"clima","input":{"ciudad":"Cali"}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_04","name":"calculadora","input":{"operacion":"dividir","a":394,"b":710}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_05","name":"clima","input":{"ciudad":"Cali"}},{"type":"tool_use","id":"toolu_06","name":"calculadora","input":{"operacion":"restar","a":991,"b":911}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_07","name":"calculadora","input":{"operacion":"sumar","a":191,"b":690}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_08","name":"clima","input":{"ciudad":"Cali"}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_09","name":"calculadora","input":{"operacion":"dividir","a":901,"b":0}},{"type":"tool_use","id":"toolu_10","name":"calculadora","input":{"operacion":"multiplicar","a":40,"b":923}},{"type":"tool_use","id":"toolu_11","name":"calculadora","input":{"operacion":"restar","a":591,"b":984}}]}
+{"stop_reason":"tool_use","content":[{"type":"text","text":"Voy a revisarlo."},{"type":"tool_use","id":"toolu_12","name":"clima","input":{"ciudad":"Pasto"}},{"type":"tool_use","id":"toolu_13","name":"clima","input":{"ciudad":"Medellín"}}]}
+{"stop_reason":"tool_use","content":[{"type":"tool_use","id":"toolu_14","name":"calculadora","input":{"operacion":"sumar","a":346,"b":48}},{"type":"tool_use","id":"toolu_15","name":"calculadora","input":{"operacion":"potencia","a":719,"b":341}},{"type":"tool_use","id":"toolu_16","name":"clima","input":{"ciudad":"Bogotá"}}]}
+{"stop_reason":"end_turn","content":[{"type":"text","text":"Listo, revisé 16 resultados."}]}
