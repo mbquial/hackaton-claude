@@ -28,21 +28,31 @@ Cada carpeta contiene:
 
 Archivo: `Respuestas_en_streaming/streaming.py`
 
+![Funcionamiento de streaming](capturas/funcionamiento_streaming.png)
+
 ### B. Uso de herramientas
 
 Archivo: `Uso_de_herramientas/herramientas.py`
+
+![Funcionamiento de herramientas](capturas/funcionamiento_herramientas.png)
 
 ### C. Costos con caché de prompts
 
 Archivo: `Costos_con_cache_de_prompts/costos_prompts.py`
 
+![Funcionamiento de costos_prompts](capturas/funcionamiento_costos_prompts.png)
+
 ### D. Límites de velocidad
 
 Archivo: `Limites_de_velocidad/limites_velocidad.py`
 
+![Funcionamiento de limites_velocidad](capturas/funcionamiento_limites_velocidad.png)
+
 ### E. Evaluación de respuestas
 
 Archivo: `Evaluacion_de_respuestas/evaluacion_respuestas.py`
+
+![Funcionamiento de evaluacion_respuestas](capturas/funcionamiento_evaluacion_respuestas.png)
 
 ## Resultado de los ejemplos
 
@@ -50,6 +60,3 @@ Los resultados de referencia están guardados en cada archivo
 `salida_esperada.txt`. Para revisar una solución, ejecútala con su
 `entrada.txt` y compara la salida obtenida con ese archivo.
 
-## Entradas oficiales
-Como no se me fue asignado ningún código o nombre inscrito, puse de 
-nombre "Belén" y de código "639". Con eso obtuve las entradas `entrada_oficial.txt`
